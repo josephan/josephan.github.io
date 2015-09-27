@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second Blog Post"
-date:   2015-09-24 19:50:38
+date:   2015-09-25
 categories: jekyll update
 ---
 

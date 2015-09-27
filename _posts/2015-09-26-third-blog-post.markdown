@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Third Blog Post"
+date:   2015-09-26
+categories: jekyll update
+---
+
+I've read the past two blogs and I realized how much of a terrible mistake it was to not review and edit the pieces after writing them. I'll let them be as a reminder to always double check my work. Right now the conventions for naming these blog posts are by their order of creationg since there really isn't such a meaningful topic to write about. They're are just entries into a journal which so far no one will likely read and I kind it that way. Today I was more productive, I slept for 7 hours and felt refreshed in the morning and started programming when I woke up. I currently practice Ruby on [Coderbyte](http://wwww.coderbyte.com), I would solve two or more challenges and it's very likely that I'll reference that [Ruby documentation](http://www.ruby-doc.org/), [Stack Overflow](http://www.stackoverflow.com/), and last but not least, being able to compare my code to other users. It's marvellous to see so many different way of approaching the problem and the different methods and objects used to solve these problems. I believe this is a spectacular way to get familiar with any language as you'll always be learning new methods and techniques to solve challenges through the "Ruby way". Coderbyte has given me incentive and a fun way of practicing programming, and it's incredible how much more I know compared to the last day. It's also pretty remarkable that I've barely scratched the surface of programming with Ruby and building web applications, but I sincerely believe I'm getting there as I am getting more productive and learning how to research and work faster.

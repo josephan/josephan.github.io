@@ -17,10 +17,18 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
+    font-weight: 400;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    .post-title {
+        font-weight: 400;
+        font-size: 38px;
+    }
+    .post-content {
+        font-family: "adobe-garamond-pro", sans-serif;
+        font-size: 20px;
+    }
 }
 
 

@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Ruby on Rails developer living in Toronto currently looking for a job. Also anyone can email me anytime about anything I love getting emails!
+Developer in Toronto. I like getting emails, feel free to send me an email about anything, anytime!

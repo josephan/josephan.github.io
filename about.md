@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Ruby on Rails developer living in Toronto.
+Ruby on Rails developer living in Toronto. Available for hire.

@@ -29,8 +29,12 @@ body {
         font-size: 18px;
     }
     .blog-post {
-        font-family: "sorts-mill-goudy", sans-serif;
+        font-family: $base-font-family, sans-serif;
         font-size: 19px;
+    }
+    img {
+        border: 1px solid #BABABA;
+        border-radius: 5px;
     }
 }
 

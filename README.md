@@ -1,1 +1,1 @@
-Check out the block [here](http://josephan.github.io/)
+Check out the website [here](http://josephan.github.io/). Thanks for visiting!

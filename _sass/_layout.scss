@@ -248,4 +248,7 @@
   left: 0;
   width: 100%;
   height: 100;
+  @include media-query($on-palm) {
+    height: 100%;
+  }
 }

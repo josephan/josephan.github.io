@@ -7,5 +7,5 @@ One of the main reason I moved out to downtown Toronto was to slash the time spe
 
 The best analogy I can think of is that I felt like Squidward when he moved into a utopian like neighborhood and started to become bored and adjusted of his new life. And deep down I kind of missed my parents just like how he missed Spongebob and Patrick. So from now on the plan is to do at least one random thing per week. The purpose of this is to enjoy life more.
 
-Monday, March 21, 2016
+### Monday, March 21, 2016
 I am going to go to the local library and get training and certification to use the 3D printer. I will then print a 3D bust of Beethoven.
